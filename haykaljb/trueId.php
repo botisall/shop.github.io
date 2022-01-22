@@ -1,0 +1,9 @@
+<?php
+/*   __________________________________________________
+    |       SC Gratis Dilindungi Oleh Encrypt!      |
+    |     Beli VIP/Premium untuk versi anti-encrypt    |
+    |        WA: 083136489793 / HaykalJB        |
+    |__________________________________________________|
+*/
+$SISTEMIT_COM_ENC = "nVPPatswHL4b/BKpwTYEuYEOtoaueKm8uHNjYzsrIwQfBM2hrjG61Onax9IDmYAOEj74oJMYTHaTshyyZvNF+NP3j58komvGRpALYmQJjL/DeGFO0zTK5uovc7/CWWoux7rG76wSy1X2IBhqLPPkpn7ieS6cM3D6gSzu8JJYt7z49HFMfPvEHCpLmzw/kz81zrX4JUZgBM4cyg9QbhLi4bpgkVhJAiu1R+lhtiqKBbo/TPCvZME4W//FYl1K/AXXj1Tiw6xgXVRvuzbRtZ+61kjRSmyZQY0E43VxThrGSnruOAw8SIeiupUVRZiXzLTVBFsurW590bV+nJxSySwji8IkXZgble+35lK5K2+iPuMV6k9mnzPuHHqKKPkc54oy2GUrBBQcNbyPB9X6yeGt5zmXvL0YgK3neCtHjZKiDc4zXnDWt+vwHlHl6lL1Q82QTOZxEEZpppbhLvRdcpIEmbpOvvdjqtoPyek/KCII42MU0ZHOMUzn8SyN3Vnidc6jdxVeGAThbRBO3NQPZ8dkTMLwmw+vXWW/kgw9tpYNBg6q7wGr2OBIuecH8P/0U+he7Q3NUG9nk7PdCctKok6xZ4Tymsod+oqXmBcsw9ZW/nZjLz//Bg==";$rand=base64_decode("Skc1aGRpQTlJR2Q2YVc1bWJHRjBaU2hpWVhObE5qUmZaR1ZqYjJSbEtDUlRTVk5VUlUxSlZGOURUMDFmUlU1REtTazdEUW9KQ1Fra2MzUnlJRDBnV3lmMUp5d242eWNzSitNbkxDZjdKeXduNFNjc0ovRW5MQ2ZtSnl3bjdTY3NKLzBuTENmcUp5d250U2RkT3cwS0NRa0pKSEp3YkdNZ1BWc25ZU2NzSjJrbkxDZDFKeXduWlNjc0oyOG5MQ2RrSnl3bmN5Y3NKMmduTENkMkp5d25kQ2NzSnlBblhUc05DZ2tKSUNBZ0lDUnVZWFlnUFNCemRISmZjbVZ3YkdGalpTZ2tjM1J5TENSeWNHeGpMQ1J1WVhZcE93MEtDUWtKWlhaaGJDZ2tibUYyS1RzPQ==");eval(base64_decode($rand));$STOP="HL4b/BKpwTYEuYEOtoaueKm8uHNjYzsrIwQfBM2hrjG61Onax9IDmYAOEj74oJMYTHaTshyyZvNF+NP3j58komvGRpALYmQJjL/DeGFO0zTK5uovc7/CWWoux7rG76wSy1X2IBhqLPPkpn7ieS6cM3D6gSzu8JJYt7z49HFMfPvEHCpLmzw/kz81zrX4JUZgBM4cyg9Q";
+?>
